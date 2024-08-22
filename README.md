@@ -1,6 +1,10 @@
-# urbanmove
+# Urbanmove
 
-A new Flutter project.
+A new Flutter project for Capstone Project.
+
+## Requirements
+- [Download for Windows x64 - Flutter SDK version 3.24.1](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.24.1-stable.zip)
+
 
 ## Getting Started
 
